@@ -4,7 +4,7 @@ Ideal para quem quer estudar, trabalhar ou focar, com controle de tempo e ajuste
 
 🖼️ Preview
 (Adicione aqui uma captura de tela do projeto)
-<img src="img/preview-pomodoro.png" alt="Preview Pomodoro com Spotify" width="500"/>
+<img src="img/preview-pomodoro.png" alt=" https://lucasmatos09.github.io/Pomodoro/" width="500"/>
 
 🚀 Funcionalidades
 ⏱️ Timer Pomodoro de 25 minutos (ajustável)
