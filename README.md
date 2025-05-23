@@ -40,7 +40,7 @@ Clone este repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/pomodoro-jorge-mateus.git
+git clone [https://github.com/seu-usuario/pomodoro-jorge-mateus.git](https://github.com/lucasmatos09/Pomodoro.git)
 Acesse a pasta do projeto:
 
 🌗 Alternância de Tema
